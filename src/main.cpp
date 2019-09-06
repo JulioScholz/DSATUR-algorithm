@@ -1,4 +1,4 @@
-/* Júlio Scholz (RA: 2023890)  Yan Pinheiro (RA: 2024004) - Turma S73*/
+/* Developed by JÃºlio Scholz*/
 #include "Grafo.h"
 int main() {
 
